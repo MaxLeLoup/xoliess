@@ -1,4 +1,4 @@
-#<br /><h1><CENTER>Xoliess is a ONLY FRENCH Bot, not have a english version.</CENTER></h1>
+<br /><h1><CENTER>Xoliess is a ONLY FRENCH Bot, not have a english version.</CENTER></h1>
 <br />
 <br /><strong>Liste des commandes</strong>
 <br />Une liste de toute les sous-catégories disponibles et leurs commande
