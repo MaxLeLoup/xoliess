@@ -1,4 +1,4 @@
-
+[![Support](https://img.shields.io/discord/590450664363261952)](https://discord.gg/E8nkfHRKQM)
 
 <br /><h1><CENTER>Xoliess is a ONLY FRENCH Bot, not have a english version.</CENTER></h1>
 <br />
