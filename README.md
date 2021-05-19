@@ -1,4 +1,4 @@
-<img scrolling="no" width="350" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" src="https://shadow-bot.fr/bot/635815283684278302/widget">
+<iframe src="https://discord.com/widget?id=590450664363261952&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <br /><h1><CENTER>Xoliess is a ONLY FRENCH Bot, not have a english version.</CENTER></h1>
 <br />
