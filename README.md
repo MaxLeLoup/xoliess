@@ -1,4 +1,4 @@
-<iframe src="https://discord.com/widget?id=590450664363261952&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://img.shields.io/discord/590450664363261952
 
 <br /><h1><CENTER>Xoliess is a ONLY FRENCH Bot, not have a english version.</CENTER></h1>
 <br />
